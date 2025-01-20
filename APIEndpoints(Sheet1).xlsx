@@ -1,0 +1,6 @@
+Endpoint,Method,Purpose,Response Example
+/products,Get,Fetches all product details,"{""id"":1,""name"":""abc"",""price"":100,""quantity"":2}"
+/order,Post,create order,"{""id"":1,""name"":""abc"",""price"",""quantity"":2}"
+/account,Get,get user,"{""name"":""user"",""id"":1,""img"":""/img1""}"
+/signIn,Get,get user,"{""name"":""user"",""id"":1,""img"":""/img1""}"
+/signUp,Post,create user,"{""name"":""user"",""id"":1,""img"":""/img1""}"

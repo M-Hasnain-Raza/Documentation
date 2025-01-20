@@ -1,2 +1,0 @@
-Endpoint,Method,Purpose,Response Example
-/products,Get,Fetches all product details,"{""id"":1,""name"":""abc"",""price"":100,""quantity"":2}"
